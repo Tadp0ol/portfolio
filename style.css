@@ -1,0 +1,19 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+#wrapper{
+	width: 970px;
+	margin: 0px auto;
+	padding: 10px;
+}
+	#wrapper img{
+		vertical-align: top;
+	}
+#information{
+	display: inline-block;
+}
+#tabs{
+	margin-top: 5px;
+	width: 450px;
+}
